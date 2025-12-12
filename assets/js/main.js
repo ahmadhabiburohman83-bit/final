@@ -64,3 +64,5 @@
 	});
 
 })(jQuery);
+AOS.init();
+
